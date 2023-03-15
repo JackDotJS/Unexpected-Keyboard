@@ -15,18 +15,18 @@
     <key key0="space" key2="\#"/>
     <key key0="x" key2="4"/>
     <key key0="c" key2="5"/>
-    <key shift="0.5" key0="i" key1="6"/>
-    <key key0="e" key1="-"/>
-    <key key0="space" key1="_"/>
-    <key key0="u" key1="!"/>
+    <key shift="0.5" key0="i" key1="6" key3="="/>
+    <key key0="e" key1="-" key3="\\"/>
+    <key key0="space" key1="_" key3=";"/>
+    <key key0="u" key1="!" key3=":"/>
   </row>
   <row>
     <key key0="r" key2=","/>
     <key key0="y" key2="%"/>
     <key key0="s" key2="7"/>
     <key key0="z" key2="8"/>
-    <key shift="0.5" key0="k" key1="9"/>
-    <key key0="a" key1="*"/>
+    <key shift="0.5" key0="k" key1="9" key3="["/>
+    <key key0="a" key1="*" key3="]"/>
     <key key0="l" key1="&quot;"/>
     <key key0="q" key1="'"/>
   </row>
