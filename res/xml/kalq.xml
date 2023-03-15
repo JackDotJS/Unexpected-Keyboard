@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <keyboard bottom_row="false">
-  <row>
+  <row height="0.7913">
     <key key0="m" key2="("/>
     <key key0="b" key2=")"/>
     <key key0="w" key2="1"/>
@@ -10,7 +10,7 @@
     <key key0="o" key1="&amp;"/>
     <key key0="j" key1="\?"/>
   </row>
-  <row>
+  <row height="0.7913"> 
     <key key0="p" key2="\@"/>
     <key key0="space" key2="\#"/>
     <key key0="x" key2="4"/>
@@ -20,7 +20,7 @@
     <key key0="space" key1="_" key3=";"/>
     <key key0="u" key1="!" key3=":"/>
   </row>
-  <row>
+  <row height="0.7913">
     <key key0="r" key2=","/>
     <key key0="y" key2="%"/>
     <key key0="s" key2="7"/>
@@ -30,7 +30,7 @@
     <key key0="l" key1="&quot;"/>
     <key key0="q" key1="'"/>
   </row>
-  <row>
+  <row height="0.7913">
     <key key0="d" key2="." key4="~"/>
     <key key0="n" key2="$" key4="|"/>
     <key key0="f" key2="/" key4="&lt;"/>
@@ -39,7 +39,7 @@
     <key width="1.3333" key7="up" key6="right" key5="left" key8="down"/>
     <key width="1.3333" key0="enter" key2="action"/>
   </row>
-  <row>
+  <row height="0.7913">
     <key width="2" key0="shift" key2="loc capslock" key4="loc meta"/>
     <key width="2" key0="ctrl" key1="change_method" key2="config" key3="loc alt" key4="fn"/>
     <key shift="0.5" width="2" key0="switch_numeric" key1="switch_emoji"/>
