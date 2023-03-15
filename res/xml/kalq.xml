@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <keyboard bottom_row="false">
   <row>
-    <key key0="m"/>
-    <key key0="b"/>
-    <key key0="w"/>
-    <key key0="h"/>
-    <key shift="0.5" key0="g"/>
-    <key key0="t"/>
-    <key key0="o"/>
-    <key key0="j"/>
+    <key key0="m" key2="("/>
+    <key key0="b" key2=")"/>
+    <key key0="w" key2="1"/>
+    <key key0="h" key2="2"/>
+    <key shift="0.5" key0="g" key1="3"/>
+    <key key0="t" key1="+"/>
+    <key key0="o" key1="&amp;"/>
+    <key key0="j" key1="\?"/>
   </row>
   <row>
-    <key key0="p"/>
-    <key key0="space" key4="config"/>
-    <key key0="x"/>
-    <key key0="c"/>
-    <key shift="0.5" key0="i"/>
-    <key key0="e"/>
-    <key key0="space"/>
-    <key key0="u"/>
+    <key key0="p" key2="\@"/>
+    <key key0="space" key2="\#"/>
+    <key key0="x" key2="4"/>
+    <key key0="c" key2="5"/>
+    <key shift="0.5" key0="i" key1="6"/>
+    <key key0="e" key1="-"/>
+    <key key0="space" key1="_"/>
+    <key key0="u" key1="!"/>
   </row>
   <row>
-    <key key0="r"/>
-    <key key0="y"/>
-    <key key0="s"/>
-    <key key0="z"/>
-    <key shift="0.5" key0="k"/>
-    <key key0="a"/>
-    <key key0="l"/>
-    <key key0="q"/>
+    <key key0="r" key2=","/>
+    <key key0="y" key2="%"/>
+    <key key0="s" key2="7"/>
+    <key key0="z" key2="8"/>
+    <key shift="0.5" key0="k" key1="9"/>
+    <key key0="a" key1="*"/>
+    <key key0="l" key1="&quot;"/>
+    <key key0="q" key1="'"/>
   </row>
   <row>
-    <key key0="d"/>
-    <key key0="n"/>
-    <key key0="f"/>
-    <key key0="v"/>
+    <key key0="d" key2="." key4="~"/>
+    <key key0="n" key2="$" key4="|"/>
+    <key key0="f" key2="/" key4="&lt;"/>
+    <key key0="v" key2="0" key4="&gt;"/>
     <key shift="0.5" width="2" key0="backspace" key2="delete"/>
     <key width="2" key0="enter" key2="action"/>
   </row>
   <row>
     <key width="2" key0="shift" key2="loc capslock"/>
-    <key width="2" key0="enter" key2="action"/>
-    <key shift="0.5" width="2" key0="switch_numeric"/>
-    <key width="2" key0="shift" key2="loc capslock"/>
+    <key width="2" key0="ctrl" key2="config"/>
+    <key shift="0.5" width="2" key0="switch_numeric" key1="switch_emoji"/>
+    <key width="2" key0="shift" key1="loc capslock"/>
   </row>
 </keyboard>
