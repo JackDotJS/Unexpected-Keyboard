@@ -40,7 +40,7 @@
   </row>
   <row>
     <key width="2" key0="shift" key2="loc capslock"/>
-    <key width="2" key0="ctrl" key2="config"/>
+    <key width="2" key0="ctrl" key1="change_method" key2="config"/>
     <key shift="0.5" width="2" key0="switch_numeric" key1="switch_emoji"/>
     <key width="2" key0="shift" key1="loc capslock"/>
   </row>
